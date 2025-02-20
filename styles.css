@@ -1,0 +1,69 @@
+main {
+    width: 800px;
+    height: 1000px;
+    border: 2px solid red;
+}
+
+
+#section_one {
+    border: 2px solid blue;
+    width: auto;
+    height: 315px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+#box_one {
+    display: flex;
+    padding: 20px;
+
+}
+
+
+#name_combo {
+    display: flex;
+}
+
+#box_two {
+    margin-left: auto;
+    padding: 20px;
+}
+
+#section_two {
+    border: 2px solid purple;
+    height: 700px;
+    width: 500px;
+}   
+
+#box_three {
+padding-bottom: 20px;
+}
+
+.contact_list {
+    list-style-type: none;
+}   
+
+span {
+    float: right;
+}
+
+/* 
+
+dd {
+    margin-left: auto;
+}  */
+
+/* expand employment more to bottom
+#box_five {
+    margin-top: 100px;
+} */
+
+#title, #text {
+    margin-left: auto;
+    padding: 5px;
+}
+
+
